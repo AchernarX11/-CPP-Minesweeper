@@ -1,0 +1,2 @@
+-说明-该项目基于cpp开发，使用的是vs2022，主要代码文件：扫雷\扫雷
+-Description- This project is developed based on C++, using VS2022. The main code files: 扫雷\扫雷
